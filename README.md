@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Derick Dilip
-- 👀 I’m interested in Python, Javascript, Data Science, Machine Learning
+- 👀 I'm a Frontend Developer
+- ✨ I’m interested in Python, Data Science, Machine Learning
 - 🌱 I’m currently pursuing my BE in Computer Science and Design at Rajalakshmi Engineering College
 - 📫 Reach out to me at derickdilip1234@gmail.com
